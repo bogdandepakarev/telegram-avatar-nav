@@ -2,7 +2,7 @@
 
 A concept for replacing the bottom navigation bar with a round avatar button that opens a full-width menu.
 
-**[Try the live demo](https://YOUR-USERNAME.github.io/telegram-avatar-nav/)**
+**[Try the live demo](https://github.com/bogdandepakarev/telegram-avatar-nav.git)**
 
 ## The problem
 
@@ -40,4 +40,4 @@ A single file built with plain HTML, CSS and JavaScript, with no dependencies.
 
 ## Demo video
 
-[https://drive.google.com/file/d/1KCQfd41UFQ17dWLEXAuvsXJhG-eCq4kl/view?usp=drive_link]
+**[Demo Video](https://drive.google.com/file/d/1KCQfd41UFQ17dWLEXAuvsXJhG-eCq4kl/view?usp=drive_link)**
